@@ -1,2 +1,2 @@
 # ArisaDeepLearning
-For Deep Learning projects
+For Arisa Deep Learning projects
